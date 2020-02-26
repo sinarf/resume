@@ -1,0 +1,153 @@
+= Michel Blavin - Dévelopeur / DevOps
+Michel Blavin <michel@blavin.fr>
+:toc:
+:toclevels: 4
+
+== Compétences
+
+[width="100%",cols="30%,70%",options="header",]
+|===
+|*Langages* | **Java, Groovy**, **Shell** (zsh, bash, ksh), SQL / PLSQL, Python, C#, VBA, Perl
+|*Technologies Web* | WebServices SOAP et *REST*, Serveurs : Tomcat, wildfly, Karaf
+|*Intégration Continue / build* |*Maven, Jenkins,* Cruise Control, Nexus, Gradle, Shell
+|*Outils* | **VirtualBox* *, VMWare, *Ansible*, *eclipse*, *vim*
+|*SGBD* | *PostgreSQL*, Oracle, MySQL, MS-Jet, SQL Server, Paradox
+|*Système d’Exploitation* | Arch, RedHat, Debian et dérivés, divers UNIX, Windows
+|*Versioning* | **Git / Git |Hub / GitLab,** Subversion, CVS
+|*Autres* | **Anglais courant**
+|===
+
+<<<
+
+== Experiences
+
+=== 2018 - ASR Informatique - Ingénieur d'études Java JEE 
+
+Je travaille dans un centre de service sur divers projets au forfait (4 à ce jour) pour un une administration française.
+
+Référent technique :
+
+* Chantier technique :
+	** Migration du framework maison(Mise à jour du JDK7, Spring 4 et Hibernate 4)
+	** Nettoyage du code dupliqué
+* Développements et correction d'anomalies
+	** Encadrement des développeurs
+	** Bonne pratique
+	** Revue de code
+	** Formation
+	** documentation
++
+Intégrateur (application java et site internet Drupal) :
+* Mise à jour des documents d’exploitation
+* Automatisation (Bash, Python)
+* Assistance pour les exploitants
+* Mise en place de Munin pour le monitoring des machines de dev
++
+Technos et outils : Java, Tomcat, Jenkins, Maven, bash, Hibernate, Spring, vim, Eclipse, SQL
+
+=== 2017-2018 - Indépendant
+
+Projets personnels
+
+* Informatique : Projets personnels d'application mobile Android (Kotlin)
+* Création : Écriture poésie et fiction
+
+=== 2011-2016 - VIF - Ingénieur IOL
+
+Dans l’équipe *Architecture Technique et Outils Logiciel*, j’ai surtout travaillé sur les nouveaux produits des gammes InnoVIF, devenu VIFWEB
+
+* DevOps
+	** *Responsable de l’intégration continue* :
+		*** Choix des outils (jenkins, nexus,...)
+		*** Choix des plugins Jenkins, en particulier JobDSL qui permet de générer et mettre à jour des jobs à partir d’un script Groovy
+		*** Intégration avec Quick Test Pro
+		*** Déploiement et maintenance des outils
+		*** Gestion quotidienne (support, mise à jours, nouveau job, ….)
+	** *Automation*, packaging des livrables avec Maven ou Gradle
+	** *Déploiement automatique des livrables* sur des VM d’intégration
+	** Mise en place de *ansible* en collaboration avec un administrateur système
+* Mise en place de VM de référence (VMware, VirtualBox)
+	** Interface entre les équipes de développement et les administrateurs systèmes
+* Développement Java / JEE des couches technique, Mise en place des nouvelles stacks logicielles
+* Mise en place des environnements de développement standard (IDE et serveur préconfiguré)
+	** Support des équipes de développeurs
+	** Mise en place de pratique agile
+	+
+____
+Technos et outils : Java, Groovy, Tomcat, Wildfly,, Jenkins, Maven, Gradle, Nuxeo, bash, Virtualbox, VMWare, Linux (CentOS sur les serveur, Arch sur ma machine), Windows, CXF, JPA/Hibernate, Spring, Spring Integration , vim, Eclipse, SQL
+____
+
+=== 2010-2011 - SII - Ingénieur d’étude Java JEE
+
+* Gros projet de refonte du SI du Mouvement Leclerc (> 30 000 jour homme).
+* Développement, assistance aux développeurs moins expérimentés.
++
+____
+Technos et outils : Java, Tomcat, Eclipse, Spring, Hibernate, SQL
+____
+
+=== 2008-2010 - DEGETEL GROUP - Ingénieur d’étude Java JEE
+
+* Mission chez bouygues telecom, à Nantes (1 an) : +
+  ** *Développement full stack* d’une application, modélisation de la base développement couche serveur, WebService (SOAP) et IHM en Wicket
+  ** Mise à jour du système de provisioning mobile :
+  	*** Développement de scripts ksh
+  	*** Mise à jour des procédures stockées (Oracle)
+	*** Développement d’un *moteur de campagne de test* qui a le fonctionnement suivant :
+    	**** Test fonctionnels sur l’ancien système pour générer un fichier de campagne de test
+		**** Exécution de la campagne sur le nouveau système garantissant l’ISO fonctionnalité de la nouvelle implémentation
+		**** *Intégration des résultats à Cruise Control* pour visualisation des non conformités
+____
+Technos et outils : Java, Groovy, Cruise Control, Wicket, Maven, Eclipse, ksh, PL/SQL
+____
+* Mission chez Orange IT&L@bs à Lannion (3 mois) : +
+	** Développement du projet Machine to Machine (M2M) d'Orange
+
+Méthode SCRUM +
+J'ai pris le rôle de *référent pour la gestion d'erreurs* : Best practice pour la gestion des exceptions Java, uniformisation du traitement de la gestion des erreurs des systèmes externes,...
+____
+Technos et outils : Java, Cruise Control, Wicket, Maven, Eclipse, ksh, PL/SQL
+____
+* Mission chez Pages Jaunes, à Rennes (6 semaines) : +
+  ** Traitement (filtrage et mise en forme) d'une *grande quantité de donnée (14 Go de fichiers XML en entrée)*, optimisation du code et paramétrage de la JVM. +
+  **Avant mon intervention processus prenais 2h sur une JVM de 12Go, après : 50 minutes sur une JVM de 1.5 Go
++
+____
+Technos et outils : Java, Jenkins, Subversion, SAX
+____
+
+=== 2007-2008 - KORAIL IS - Développeur
+
+* Référent technique eclipse, maven, subversion.
+* Développement Java
+* Installation et déploiement de la ferme logicielle et des environnement de développement : Subversion, Trac, automatisation du build via un script Python, eclipse préconfiguré pour les développeur
+* Petits projets de développement en .Net (C#, WinForms, .net remoting).
++
+____
+Technos et outils : Java, Eclipse, Python, JAXB, Axis (SOAP), C#,
+____
+
+=== 2000-2007 - EXANE BNP Paribas - Technicien télécoms
+
+* Technicien maintenance et support, *responsable des développements*
+* Conception et développement d'outils intégrant les données de taxation des PABX avec l'application CRM à destination des analystes financiers et d’outils de gestion des coûts télécoms (scripts *Perl*)
+* Intégration, centralisation et migration des données de gestion et exploitation du service Télécom : Intégration de données hétérogènes (Excel, BD oracle). Etude et modélisation des processus.
+* Déploiement et mise en service de PABX Alcatel et Etrali dans nos filiales de Londres, New-York et Genève.
+
+=== 1995-2000 - RESOCOM SERVICES - Technicien télécoms
+
+* CTI - Mise en place des systèmes d’enregistrement téléphonique sur les plateformes de centre d’appel. Prise en charge des premières intégrations.
+* Formateur (en langue anglaise et langue française) pour les techniciens et les clients sur les équipements Etrali (Pabx, enregistreurs de conversations Nice Systems…).
+* Support technique des équipes sur site et des équipes itinérantes dans un contexte national et international (anglais).
+* Mise en service de salle des marchés. Maintenance préventive et curative
+
+== Et en dehors ?
+
+J’aime voir mes amis et cuisiner. N’ayant pas de télévision je préfère souvent écouter de la musique, lire ou écrire
+
+== Liens
+
+* mailto:michel@blavin.fr[*[.underline]#michel@blavin.fr#*]
+* https://www.linkedin.com/in/michelblavin/[LinkedIn]
+* https://framagit.org/sinarf/resume[Sources de mon CV au format asciidoc]
+
