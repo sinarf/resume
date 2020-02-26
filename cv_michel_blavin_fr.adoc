@@ -15,7 +15,7 @@ Michel Blavin <michel@blavin.fr>
 |*SGBD* | *PostgreSQL*, Oracle, MySQL, MS-Jet, SQL Server, Paradox
 |*Système d’Exploitation* | Arch, RedHat, divers UNIX, Windows
 |*Versioning* | *Git / GitHub / GitLab,* Subversion, CVS 
-| *Autres* | **Anglais courant** 
+|*Autres* | **Anglais courant** 
 |===
 
 <<<
@@ -28,23 +28,23 @@ Je travaille dans un centre de service sur divers projets au forfait (4 à ce jo
 
 Référent technique :
 
-* Chantier technique :
-	** Migration du framework maison(Mise à jour du JDK7, Spring 4 et Hibernate 4)
-	** Nettoyage du code dupliqué
-* Développements et correction d'anomalies
-	** Encadrement des développeurs
-	** Bonne pratique
-	** Revue de code
-	** Formation
-	** documentation
-+
+* Encadrement des développeurs
+* Bonnes pratiques
+* Revues de code
+* Formations
+* Migration du framework maison(Mise à jour du JDK7, Spring 4 et Hibernate 4)
+* Documentations
+
 Intégrateur (application java et site internet Drupal) :
+
 * Mise à jour des documents d’exploitation
-* Automatisation (Bash, Python)
+* Automatisation déploiements (Bash, Python)
 * Assistance pour les exploitants
 * Mise en place de Munin pour le monitoring des machines de dev
-+
+
+____
 Technos et outils : Java, Tomcat, Jenkins, Maven, bash, Hibernate, Spring, vim, Eclipse, SQL
+____
 
 === 2017-2018 - Indépendant
 
@@ -73,7 +73,7 @@ Dans l’équipe *Architecture Technique et Outils Logiciel*, j’ai surtout tra
 * Mise en place des environnements de développement standard (IDE et serveur préconfiguré)
 	** Support des équipes de développeurs
 	** Mise en place de pratique agile
-	+
+
 ____
 Technos et outils : Java, Groovy, Tomcat, Wildfly,, Jenkins, Maven, Gradle, Nuxeo, bash, Virtualbox, VMWare, Linux (CentOS sur les serveur, Arch sur ma machine), Windows, CXF, JPA/Hibernate, Spring, Spring Integration , vim, Eclipse, SQL
 ____
