@@ -2,19 +2,20 @@
 Michel Blavin <michel@blavin.fr>
 :toc:
 :toclevels: 4
+:homepage: https://framagit.org/sinarf/resume/
 
 == Compétences
 
-[width="100%",cols="30%,70%",options="header",]
+[width="100%",cols="30%,70%",]
 |===
-|*Langages* | **Java, Groovy**, **Shell** (zsh, bash, ksh), SQL / PLSQL, Python, C#, VBA, Perl
+|*Langages* | *Java, Groovy**, **Shell* (zsh, bash, ksh), SQL / PLSQL, Python, C#, VBA, Perl
 |*Technologies Web* | WebServices SOAP et *REST*, Serveurs : Tomcat, wildfly, Karaf
 |*Intégration Continue / build* |*Maven, Jenkins,* Cruise Control, Nexus, Gradle, Shell
-|*Outils* | **VirtualBox* *, VMWare, *Ansible*, *eclipse*, *vim*
+|*Outils* | *VirtualBox*, VMWare, *Ansible*, *eclipse*, *vim*
 |*SGBD* | *PostgreSQL*, Oracle, MySQL, MS-Jet, SQL Server, Paradox
-|*Système d’Exploitation* | Arch, RedHat, Debian et dérivés, divers UNIX, Windows
-|*Versioning* | **Git / Git |Hub / GitLab,** Subversion, CVS
-|*Autres* | **Anglais courant**
+|*Système d’Exploitation* | Arch, RedHat, divers UNIX, Windows
+|*Versioning* | *Git / GitHub / GitLab,* Subversion, CVS 
+| *Autres* | **Anglais courant** 
 |===
 
 <<<
@@ -81,7 +82,7 @@ ____
 
 * Gros projet de refonte du SI du Mouvement Leclerc (> 30 000 jour homme).
 * Développement, assistance aux développeurs moins expérimentés.
-+
+
 ____
 Technos et outils : Java, Tomcat, Eclipse, Spring, Hibernate, SQL
 ____
@@ -111,7 +112,7 @@ ____
 * Mission chez Pages Jaunes, à Rennes (6 semaines) : +
   ** Traitement (filtrage et mise en forme) d'une *grande quantité de donnée (14 Go de fichiers XML en entrée)*, optimisation du code et paramétrage de la JVM. +
   **Avant mon intervention processus prenais 2h sur une JVM de 12Go, après : 50 minutes sur une JVM de 1.5 Go
-+
+
 ____
 Technos et outils : Java, Jenkins, Subversion, SAX
 ____
@@ -122,7 +123,6 @@ ____
 * Développement Java
 * Installation et déploiement de la ferme logicielle et des environnement de développement : Subversion, Trac, automatisation du build via un script Python, eclipse préconfiguré pour les développeur
 * Petits projets de développement en .Net (C#, WinForms, .net remoting).
-+
 ____
 Technos et outils : Java, Eclipse, Python, JAXB, Axis (SOAP), C#,
 ____
