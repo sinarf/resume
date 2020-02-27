@@ -1,5 +1,6 @@
 plugins {
     id 'org.asciidoctor.jvm.pdf' version '3.1.0'
+    id 'org.asciidoctor.jvm.convert' version '3.1.0'
     id 'org.asciidoctor.jvm.gems' version '3.1.0'
 }
 
@@ -17,5 +18,4 @@ asciidoctorPdf {
     baseDirFollowsSourceFile()
 }
 
-// alias
-task asciidoctor(dependsOn: asciidoctorPdf)
+defaultTasks 'clean', 'asciidoctor', 'asciidoctorPdf'
