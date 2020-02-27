@@ -2,7 +2,7 @@
 
 My resume in an asciidoc format, because text is future proof. 
 
-## Generate pdf file of my resume
+## Generate my resume in html and pdf format.
 
 _Needs an Internet connection_
 
