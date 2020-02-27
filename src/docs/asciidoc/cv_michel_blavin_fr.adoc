@@ -3,26 +3,37 @@ Michel Blavin <michel@blavin.fr>
 :toc:
 :toclevels: 4
 :homepage: https://framagit.org/sinarf/resume/
+:sectanchors:
+:sectlinks:
 
-== Compétences
+== Introduction
 
-[width="100%",cols="30%,70%",]
-|===
-|*Langages* | *Java, Groovy**, **Shell* (zsh, bash, ksh), SQL / PLSQL, Python, C#, VBA, Perl
-|*Technologies Web* | WebServices SOAP et *REST*, Serveurs : Tomcat, wildfly, Karaf
-|*Intégration Continue / build* |*Maven, Jenkins,* Cruise Control, Nexus, Gradle, Shell
-|*Outils* | *VirtualBox*, VMWare, *Ansible*, *eclipse*, *vim*
-|*SGBD* | *PostgreSQL*, Oracle, MySQL, MS-Jet, SQL Server, Paradox
-|*Système d’Exploitation* | Arch, RedHat, divers UNIX, Windows
-|*Versioning* | *Git / GitHub / GitLab,* Subversion, CVS 
-|*Autres* | **Anglais courant** 
-|===
+Ma carrière se découpe en deux parties, entre les deux, il y a un https://travail-emploi.gouv.fr/formation-professionnelle/formation-des-salaries/article/conge-individuel-de-formation-cif[CIF] qui m'a permis cette reconversion.
+
+* <<Technicien en télécommunications>>
+* <<Développeur orienté DevOps>>
+
+Ces expériences me donnent un profile technique très généraliste.
+Je suis à l'aise avec les problèmatique d'intégration, que ce soit en terme technique ou humain.
+Car, le DevOps est avant tout une philosophie, plus qu'une boite à outils.
+Les softskills, invisible dans un CV, sont primordiales pour ce genre de rôle.
+Ma curiosité naturelle et mon respect des compétences de chacuns me permet d'être un facilitateur, qui peut discuter avec des fonctionnels , des développeurs ou des administrateurs.
+Au final, on a tous le même objectif : *Résoudre des problèmes fonctionnels avec des solutions techniques qui tournent en production*.
+
+Vous voudriez que j'ai déjà utilisé l'outils X ou le framework Y ?::
+Autodidacte, je suis habitué à apprendre à utiliser de nouveaux outils, peu importe l'outil, je saurais apprendre à l'utiliser, *parce que c'est mon métier*. ;)
+
+Mes critères de choix : ::
+
+* Me sentir utile
+* Travailler avec des gens sympas
+* Apprendre des nouvelles choses
 
 <<<
 
-== Experiences
+== Développeur orienté DevOps
 
-=== 2018 - ASR Informatique - Ingénieur d'études Java JEE 
+=== Depuis 2018 - ASR Informatique - Ingénieur d'études Java JEE
 
 Je travaille dans un centre de service sur divers projets au forfait (4 à ce jour) pour un une administration française.
 
@@ -101,17 +112,16 @@ ____
 ____
 Technos et outils : Java, Groovy, Cruise Control, Wicket, Maven, Eclipse, ksh, PL/SQL
 ____
-* Mission chez Orange IT&L@bs à Lannion (3 mois) : +
+* Mission chez Orange IT&L@bs à Lannion (3 mois) :
 	** Développement du projet Machine to Machine (M2M) d'Orange
-
-Méthode SCRUM +
-J'ai pris le rôle de *référent pour la gestion d'erreurs* : Best practice pour la gestion des exceptions Java, uniformisation du traitement de la gestion des erreurs des systèmes externes,...
+    ** Méthode SCRUM
+    ** *Référent pour la gestion d'erreurs* : Best practice pour la gestion des exceptions Java, uniformisation du traitement de la gestion des erreurs des systèmes externes,...
 ____
 Technos et outils : Java, Cruise Control, Wicket, Maven, Eclipse, ksh, PL/SQL
 ____
 * Mission chez Pages Jaunes, à Rennes (6 semaines) : +
   ** Traitement (filtrage et mise en forme) d'une *grande quantité de donnée (14 Go de fichiers XML en entrée)*, optimisation du code et paramétrage de la JVM. +
-  **Avant mon intervention processus prenais 2h sur une JVM de 12Go, après : 50 minutes sur une JVM de 1.5 Go
+  ** Avant mon intervention processus prenais 2h sur une JVM de 12Go, après : 50 minutes sur une JVM de 1.5 Go
 
 ____
 Technos et outils : Java, Jenkins, Subversion, SAX
@@ -119,13 +129,23 @@ ____
 
 === 2007-2008 - KORAIL IS - Développeur
 
-* Référent technique eclipse, maven, subversion.
 * Développement Java
-* Installation et déploiement de la ferme logicielle et des environnement de développement : Subversion, Trac, automatisation du build via un script Python, eclipse préconfiguré pour les développeur
+** Gestion de la configuration Maven
+** Mise en place de l'usine logiciel _(Rappel on est en 2007)_
+*** trac pour le wiki et le bugtracker
+*** Subversion pour la gestion des sources.
+*** Scripting Python pour l'intégration et le déploiement continue du code de la veille (en 2007, les outils de CI n'était pas encore mûrs)
+*** Customisation de l'environnement de developpement, basé sur eclipse
+** Contact technique avec le client final
+** Responsable des livraisons
 * Petits projets de développement en .Net (C#, WinForms, .net remoting).
 ____
 Technos et outils : Java, Eclipse, Python, JAXB, Axis (SOAP), C#,
 ____
+
+<<<
+
+== Technicien en télécommunications
 
 === 2000-2007 - EXANE BNP Paribas - Technicien télécoms
 
@@ -143,11 +163,10 @@ ____
 
 == Et en dehors ?
 
-J’aime voir mes amis et cuisiner. N’ayant pas de télévision je préfère souvent écouter de la musique, lire ou écrire
+J’aime voir mes amis, faire du roller, cuisiner, lire et écrire.
 
 == Liens
 
 * mailto:michel@blavin.fr[*[.underline]#michel@blavin.fr#*]
 * https://www.linkedin.com/in/michelblavin/[LinkedIn]
 * https://framagit.org/sinarf/resume[Sources de mon CV au format asciidoc]
-
