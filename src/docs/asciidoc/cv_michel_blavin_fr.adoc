@@ -161,12 +161,7 @@ ____
 * Support technique des équipes sur site et des équipes itinérantes dans un contexte national et international (anglais).
 * Mise en service de salle des marchés. Maintenance préventive et curative
 
-== Et en dehors ?
-
-J’aime voir mes amis, faire du roller, cuisiner, lire et écrire.
-
 == Liens
 
 * mailto:michel@blavin.fr[*[.underline]#michel@blavin.fr#*]
-* https://www.linkedin.com/in/michelblavin/[LinkedIn]
 * https://framagit.org/sinarf/resume[Sources de mon CV au format asciidoc]
