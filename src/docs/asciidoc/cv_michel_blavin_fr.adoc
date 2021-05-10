@@ -164,4 +164,4 @@ ____
 == Liens
 
 * mailto:michel@blavin.fr[*[.underline]#michel@blavin.fr#*]
-* https://framagit.org/sinarf/resume[Sources de mon CV au format asciidoc]
+* https://github.com/sinarf/resume[Sources de mon CV au format asciidoc]
